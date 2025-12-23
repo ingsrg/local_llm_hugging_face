@@ -27,7 +27,7 @@ Good beginner models:
 
 distilgpt2 (very small, fast)
 
-gpt2
+gpt2 
 
 TinyLlama/TinyLlama-1.1B-Chat-v1.0
 
