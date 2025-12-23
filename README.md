@@ -17,6 +17,10 @@ pip install --upgrade pip
 
 pip install torch transformers accelerate huggingface_hub
 
+or 
+
+pip install -r requirements.txt
+
 ### Choose a Model from Hugging Face
 
 Go to 👉 https://huggingface.co/models
